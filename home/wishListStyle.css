@@ -1,0 +1,200 @@
+html
+{
+    font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+    text-align:center;
+}
+#homeBtn
+{
+    position:absolute;
+    top:50px;
+    left:15vw;
+    padding:5px;
+    color:white;
+    background:rgb(65,64,66);
+    border-radius:5px;
+    cursor:pointer;
+    -webkit-transition:background 0.2s;
+}
+#backBtn
+{
+    position:absolute;
+    top:50px;
+    left:20vw;
+    padding:5px;
+    color:white;
+    background:rgb(65,64,66);
+    border-radius:5px;
+    cursor:pointer;
+    -webkit-transition:background 0.2s;
+}
+#backBtn:hover, #homeBtn:hover
+{
+    background:rgb(100,100,100);
+}
+#backBtn a, #homeBtn a
+{
+    outline:none;
+    width:100%;
+    height:100%;
+    display:block;
+    text-decoration: none;
+    color:white;
+}
+#titleDiv
+{
+    display:inline-block;
+    height:50px;
+    /*width:400px;*/
+    margin-top:30px;
+    font-size:32pt;
+    color:rgb(65,64,66);
+}
+#itemsList
+{
+    display:inline-block;
+    margin-top:20px;
+    top:80px;
+    width:70vw;
+    padding-bottom:10px;
+    text-align:center;
+    border:1px solid black;
+    border-radius: 10px 10px 0 0;
+    overflow:hidden;
+    background:rgb(247,248,220);
+}
+#resultsHeader
+{
+    display:block;
+    margin:0;
+    padding:7px 1%;
+    width:98%;
+    background:rgb(150,150,150);
+    text-align:left;
+}
+#numResults
+{
+    display:inline-block;
+    color:rgb(65,64,66);
+}
+#sortOptions
+{
+    width:20px;
+    height:20px;
+    display:inline-block;
+    border:1px solid rgb(65,64,66);
+    float:right;
+}
+.item
+{
+    width:80%;
+    margin-top:10px;
+    padding:10px 10%;
+    height:125px;
+    text-align:left;
+    display:block;
+}
+.item-pic
+{
+    display:inline-block;
+    float:left;
+    width:100px;
+    height:125px;
+    border:1px solid black;
+}
+.item-title
+{
+    display:inline-block;
+    float:left;
+    margin-left:20px;
+    font-size: 24pt;
+    color:rgb(65,64,66);
+}
+.item-description
+{
+    display:inline-block;
+    float:left;
+    margin-left:20px;
+    margin-top:5px;
+    font-size:14pt;
+    color:rgb(120,120,120);
+}
+.item-likes
+{
+    display:inline-block;
+    float:right;
+}
+.item-likes.likeTx
+{
+    cursor:default;
+    height:auto;
+    width:auto;
+    color:rgb(4,183,0);
+    margin-right:20px;
+}
+.item-dislikes
+{
+    display:inline-block;
+    float:right;
+}
+.item-dislikes.likeTx
+{
+    width:auto;
+    height:auto;
+    cursor:default;
+    color:rgb(255,51,51);
+}
+.item-buyButton
+{
+    display:inline-black;
+    float:right;
+    padding:5px;
+    border-radius:5px;
+    background:rgb(65,64,66);
+    color:white;
+    cursor:pointer;
+    -webkit-transition:background 0.2s;
+}
+.item-buyButton:hover
+{
+    background:rgb(100,100,100);
+}
+.likeTx
+{
+    line-height:30px;
+}
+.item-likes,.item-dislikes
+{
+    width:30px;
+    height:30px;
+    cursor:pointer;
+}
+.likeIm
+{
+    height:30px;
+    width:30px;
+}
+.item-dislikes.likeIm:hover>svg>.dislikeF
+{
+    fill:rgb(100,100,100);
+}
+.item-likes.likeIm:hover>svg>.likeF
+{
+    fill:rgb(100,100,100);
+}
+.likeF
+{
+    fill:rgb(65,64,66);
+    -webkit-transition:fill 0.2s;
+}
+.dislikeF
+{
+    fill:rgb(65,64,66);
+    -webkit-transition:fill 0.2s;
+}
+.likeIm a
+{
+    outline:none;
+    width:100%;
+    height:100%;
+    display:block;
+}

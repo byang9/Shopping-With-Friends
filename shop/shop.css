@@ -1,0 +1,23 @@
+.button {
+    background-color: #00AF33	; /* Green */
+    border: none;
+    color: white;
+    padding: 11px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-size: bold;
+}
+
+.button2 {
+    background-color: whitesmoke; /* Green */
+    border: none;
+    color: white;
+    padding: 11px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-size: bold;
+}

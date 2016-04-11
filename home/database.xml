@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<people>
+  <person>
+    <id>Me ME</id>
+    <name>Me Me</name>
+    <address>
+      <street>some str</street>
+      <city>some city</city>
+      <state>GA</state>
+      <zip>30322</zip>
+    </address>
+    <frineds>
+      <fr>You You</fr>
+      <fr>Them Them</fr>
+    </frineds>
+    <wishlist>
+      <item>
+        <id>342567890</id>
+        <likes>8</likes>
+        <dislikes>4</dislikes>
+      </item>
+      <item>
+        <id>4536475869708-9</id>
+        <likes>3</likes>
+        <dislikes>5</dislikes>
+      </item>
+      <item>
+        <id>234567890-</id>
+        <likes>1</likes>
+        <dislikes>6</dislikes>
+      </item>
+      <item>
+        <id>2345647890</id>
+        <likes>10</likes>
+        <dislikes>0</dislikes>
+      </item>
+      <item>
+        <id>123456789</id>
+        <likes>0</likes>
+        <dislikes>0</dislikes>
+      </item>
+    <item><id>ALFANI SUIT</id><likes>0</likes><dislikes>0</dislikes></item><item><id>ALFANI SUIT</id><likes>0</likes><dislikes>0</dislikes></item></wishlist>
+  </person>
+  <person>
+    <id>You You</id>
+    <name>You You</name>
+    <address>
+      <street>234567890</street>
+      <city>some city</city>
+      <state>GA</state>
+      <zip>30322</zip>
+    </address>
+    <frineds>
+      <fr>Me Me</fr>
+    </frineds>
+    <wishlist>
+      <item>
+        <id>1234567890</id>
+        <likes>33</likes>
+        <dislikes>7</dislikes>
+      </item>
+      <item>
+        <id>986754321</id>
+        <likes>4</likes>
+        <dislikes>9</dislikes>
+      </item>
+      <item>
+        <id>267389475086</id>
+        <likes>10</likes>
+        <dislikes>4</dislikes>
+      </item>
+      <item>
+        <id>1273847958</id>
+        <likes>83</likes>
+        <dislikes>1</dislikes>
+      </item>
+    </wishlist>
+  </person>
+  <person>
+    <id>Them Them</id>
+    <name>Them Them</name>
+    <address>
+      <street>some str</street>
+      <city>some city</city>
+      <state>GA</state>
+      <zip>30322</zip>
+    </address>
+    <frineds>
+      <fr>Me Me</fr>
+    </frineds>
+    <wishlist>
+      <item>
+        <id>6253768479586</id>
+        <likes>19</likes>
+        <dislikes>6</dislikes>
+      </item>
+      <item>
+        <id>357684950</id>
+        <likes>3</likes>
+        <dislikes>5</dislikes>
+      </item>
+      <item>
+        <id>257368479580</id>
+        <likes>10</likes>
+        <dislikes>6</dislikes>
+      </item>
+      <item>
+        <id>256736847958760</id>
+        <likes>1</likes>
+        <dislikes>3</dislikes>
+      </item>
+    </wishlist>
+  </person>
+<person>
+    
+    <id>Bowen Yang</id><name>Bowen Yang</name><wishlist><item><id>ALFANI SUIT</id><likes>5</likes><dislikes>21</dislikes></item></wishlist></person><person><id>Phuc Nguyen</id><name>Phuc Nguyen</name><wishlist><item><id>ALFANI SUIT</id><likes>23</likes><dislikes>71</dislikes></item></wishlist></person><person><id>Daniel Dakev</id><name>Daniel Dakev</name><wishlist><item><id>ALFANI SUIT</id><likes>0</likes><dislikes>0</dislikes></item><item><id>ALFANI SUIT</id><likes>0</likes><dislikes>0</dislikes></item></wishlist></person><person><id>Johnny Delgado</id><name>Johnny Delgado</name><wishlist/></person></people>

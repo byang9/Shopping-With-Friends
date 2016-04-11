@@ -1,0 +1,2 @@
+[09-Apr-2016 23:18:47 UTC] PHP Fatal error:  Call to a member function C14N() on a non-object in /home/byang9/public_html/hackEmory/home/display_wishlist.php on line 14
+[09-Apr-2016 23:19:08 UTC] PHP Fatal error:  Call to a member function C14N() on a non-object in /home/byang9/public_html/hackEmory/home/display_wishlist.php on line 14
